@@ -24,3 +24,7 @@ pip install folium
 - Mapping  https://pypi.org/project/folium/
 - Co-ordinates (API) https://pypi.org/project/opencage/
 
+# Sort....of?
+The API is only limited to accessing the country as a whole but not a specific location, i guess the carrier limits such information.
+~~Hopefully~~, will come across a better OSINT tool.
+
