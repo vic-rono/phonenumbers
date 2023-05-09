@@ -1,1 +1,1 @@
-num = "+254713016954"
+num = "[try your number]"
