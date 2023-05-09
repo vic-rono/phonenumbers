@@ -6,11 +6,9 @@ the geocoder module helps in getting location of the phonenumber in conjuction w
 parse module will ascertain that the phone numbers are in the correct format.
 Carrier module will get the carrier information
 
-<br>
 ```
 pip install phonenumbers
 ```
-<br>
 For accessing the geocoding API
 ```
 pip install opencage
@@ -22,7 +20,7 @@ pip install folium
 ```
 
 # Resources
-Phonenumbers - https://pypi.org/project/phonenumbers/
-Mapping - https://pypi.org/project/folium/
-Co-ordinates (API) - https://pypi.org/project/opencage/
+- Phonenumbers https://pypi.org/project/phonenumbers/
+- Mapping  https://pypi.org/project/folium/
+- Co-ordinates (API) https://pypi.org/project/opencage/
 
