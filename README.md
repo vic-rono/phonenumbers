@@ -2,11 +2,27 @@
 Using geo-location data from Open Cage data API to get location based on the phone number.....sort of.
 
 # Dependencies
-the geocoder module helps in getting location of the phonenuber in conjuction with OpenCage API
+the geocoder module helps in getting location of the phonenumber in conjuction with OpenCage API.
+parse module will ascertain that the phone numbers are in the correct format.
+Carrier module will get the carrier information
+
+<br>
 ```
 pip install phonenumbers
 ```
+<br>
+For accessing the geocoding API
+```
+pip install opencage
+```
+Geographic visualizations for getting the location based on the lattitudes and longitudes.
+Utilizes Leaflet javascript library through Python API.
+```
+pip install folium
+```
 
-```
-pip install 
-```
+# Resources
+Phonenumbers - https://pypi.org/project/phonenumbers/
+Mapping - https://pypi.org/project/folium/
+Co-ordinates (API) - https://pypi.org/project/opencage/
+
