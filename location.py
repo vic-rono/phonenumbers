@@ -7,7 +7,7 @@ from phonenumbers import geocoder
 
 from opencage.geocoder import OpenCageGeocode
 
-apiKey = "c95a3978de40445c99f5ddfaf0b65f62"
+apiKey = "weka yako from opencage"
 perNumber = phonenumbers.parse(num)
 
 perLocation = geocoder.description_for_number(perNumber, "en")
