@@ -28,3 +28,5 @@ pip install folium
 The API is only limited to accessing the country as a whole but not a specific location, i guess the carrier limits such information.
 ~~Hopefully~~, will come across a better OSINT tool.
 
+
+
